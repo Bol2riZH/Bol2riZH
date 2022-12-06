@@ -1,5 +1,6 @@
-<h1 align="center">Hey there, I'm Matthieu REUNGOAT</h1>
-<h3 align="center">Jr Front-end Developper</h3>
+<h1 align="center">Hey there, I'm Matthieu REUNGOAT 😁</h1>
+<h3 align="center">Front-end Developper</h3>
+<h4 align="center">CLEAN & DRY CODER 🧹</h4>
 
 - 🌱 I’m currently learning **Vue.js**
 
