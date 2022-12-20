@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Matthieu REUNGOAT</h1>
-<h3 align="center">Jr Front-end Developper</h3>
+<h3 align="center">Jr Web Developper</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🧑‍💻 I’m currently working on **my portfolio**
 
 - 📫 How to reach me **reungoat.matthieu@gmail.com**
 
