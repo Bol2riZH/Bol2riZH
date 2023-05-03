@@ -2,7 +2,7 @@
 <h3 align="center">WEB DEVELOPPER</h3>
 <h4 align="center">Clean & DRY coder 🧹</h4>
 
-- 🧑‍💻 I’m currently working on **TypeScript**
+- 🧑‍💻 I’m currently working on **Php**
 
 - 📫 How to reach me **reungoat.matthieu@gmail.com**
 
