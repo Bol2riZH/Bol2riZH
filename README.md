@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Matthieu REUNGOAT</h1>
 <h3 align="center">WEB DEVELOPPER</h3>
-<h4 align="center">Clean & DRY coder 🧹</h4>
+<h4 align="center">FULLSTACK</h4>
 
 - 🧑‍💻 I’m currently working at **Quéguiner**
 
